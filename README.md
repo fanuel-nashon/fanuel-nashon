@@ -15,8 +15,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-✍️ Random Dev Quote
-![ReadMe Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-😂 Random Dev Meme
-![Programming Meme](https://raw.githubusercontent.com/zhanyuzhang/zhanyuzhang/master/quote.jpg)
