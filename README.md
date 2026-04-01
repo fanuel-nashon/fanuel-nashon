@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-[cite_start]🚀 I'm a **Full-Stack Web Developer** deeply passionate about the **Laravel** ecosystem and building secure, high-performance web applications[cite: 4, 10].
+🚀 I'm a **Full-Stack Web Developer** deeply passionate about the **Laravel** ecosystem and building secure, high-performance web applications[cite: 4, 10].
 🛡️ **Cybersecurity** is a core focus of my work; [cite_start]I enjoy implementing threat landscape analysis and ensuring robust system architecture[cite: 6, 33, 41, 43].
-[cite_start]📱 I utilize **Tailwind CSS** and **Bootstrap** to craft responsive, elegant user interfaces that prioritize user engagement[cite: 8, 32].
-[cite_start]⚙️ Beyond the web, I have a strong background in **Linux server management** and **Cloud infrastructure**[cite: 5, 13].
+📱 I utilize **Tailwind CSS** and **Bootstrap** to craft responsive, elegant user interfaces that prioritize user engagement[cite: 8, 32].
+⚙️ Beyond the web, I have a strong background in **Linux server management** and **Cloud infrastructure**[cite: 5, 13].
 
 💻 Tech Stack:
 
