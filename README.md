@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**fanuel-nashon/fanuel-nashon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]🚀 I'm a **Full-Stack Web Developer** deeply passionate about the **Laravel** ecosystem and building secure, high-performance web applications[cite: 4, 10].
+🛡️ **Cybersecurity** is a core focus of my work; [cite_start]I enjoy implementing threat landscape analysis and ensuring robust system architecture[cite: 6, 33, 41, 43].
+[cite_start]📱 I utilize **Tailwind CSS** and **Bootstrap** to craft responsive, elegant user interfaces that prioritize user engagement[cite: 8, 32].
+[cite_start]⚙️ Beyond the web, I have a strong background in **Linux server management** and **Cloud infrastructure**[cite: 5, 13].
 
-Here are some ideas to get you started:
+💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yello)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+📊 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+
+✍️ Random Dev Quote
+![ReadMe Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+😂 Random Dev Meme
+![Programming Meme](https://raw.githubusercontent.com/zhanyuzhang/zhanyuzhang/master/quote.jpg)
